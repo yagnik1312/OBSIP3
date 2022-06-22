@@ -1,0 +1,88 @@
+h1{text-align: center;
+border: 1px solid #9b6aff;
+background-color: #aaffdf;
+border-radius: 5px;}
+html, body {
+    width: 50%;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 450px;
+    hight: auto;
+    background: linear-gradient(#8098ff, #95ffe0);
+    border:1px solid black;
+    box-shadow: 5px 5px 4px;
+    border-radius: 3px;
+    align-content: center;
+    justify-content: center;
+}
+
+#inputField {
+    width: 300px;
+    height: 46px;
+    border-width: 0;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+    margin-left: 50px;
+    background-color: #ffeaff;
+    border-radius: 3px;
+    margin-top: 10px;
+}
+
+#add {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 30px;
+    border-radius:2px;
+    margin-left:5px;
+        background-color:#2b2eff;
+        margin-top: 10px;
+}
+
+.ptag {
+    margin-top: 1px;
+    cursor: pointer;
+    font-size: 20px;
+    background-color:#fff4d5;
+    border-radius:5px;
+    text-align:center;
+    box-shadow:3px 3px 2px;
+     margin-left: 5px;
+     height: auto;
+    margin-right: 5px;
+    height: 25px;max-width: 440px;
+    padding-top: 2px;
+    padding-bottom: 10px;
+    
+    
+}
+
+.to-dos {
+    margin-top: 25px;   
+}
+
+
+
+
+
+
+.rem {
+    
+    border: 1px solid black;
+    
+    font-size: 15px;
+    border-radius:2px;
+    margin-left:5px;
+    background-color:#ff000a;
+    margin-top: 10px;
+        float: right;
+        margin-right: 4px;
+     margin-bottom: 19px;
+}
+.rem:hover{background-color: #ffffff;}
